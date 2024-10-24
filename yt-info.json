@@ -1,0 +1,5 @@
+{
+  "apiKey": "AIzaSyB7b1er_WbjMb68o9Ud3suD3dtR2WdGOoo",
+  "api": "https://www.googleapis.com/youtube/v3/",
+  "detailsUrl": "https://www.googleapis.com/youtube/v3/videos?part=statistics,snippet&id={videoId}&key={apiKey}"
+}
